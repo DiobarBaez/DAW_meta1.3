@@ -53,6 +53,7 @@ function startSimulation(processes) {
     }
 }
 
+/**/
 const startButton = document.getElementById("startButton");
 const clearButton = document.getElementById("clearButton");
 const outputElement = document.getElementById("output");
